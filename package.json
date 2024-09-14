@@ -1,0 +1,48 @@
+{
+  "name": "atlas",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+    "@react-native-community/netinfo": "^11.3.1",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "expo": "^51.0.32",
+    "expo-av": "^14.0.7",
+    "expo-font": "^12.0.10",
+    "expo-linear-gradient": "~13.0.2",
+    "expo-screen-capture": "~6.0.1",
+    "expo-status-bar": "~1.12.1",
+    "react": "^18.2.0",
+    "react-native": "^0.74.5",
+    "react-native-axios": "^0.17.1",
+    "react-native-image-slider-box": "^2.0.7",
+    "react-native-image-slider-show": "^1.0.3",
+    "react-native-loading-spinner-overlay": "^3.0.1",
+    "react-native-marquee": "^0.5.0",
+    "react-native-marquee-view": "^1.0.5",
+    "react-native-neomorph-shadows": "^1.1.2",
+    "react-native-picker-select": "^9.2.0",
+    "react-native-reanimated-carousel": "^3.5.1",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-swiper-flatlist": "^3.2.4",
+    "react-native-switch-selector": "^2.3.0",
+    "react-native-vector-icons": "^10.1.0",
+    "react-native-video": "^2.3.1",
+    "react-native-video-player": "^0.12.0",
+    "react-native-view-more-text": "^2.2.0",
+    "react-native-view-slider": "^1.1.1",
+    "react-native-webview": "13.8.6",
+    "react-native-youtube-iframe": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

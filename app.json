@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Atlas",
+    "slug": "Atlas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iphone.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iphone.png"
+      },
+      "package": "com.derfetnezir.Atlas"
+    },
+    "web": {
+      "favicon": "./assets/iphone.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "46e6df13-cf48-4999-842a-967428ad79f7"
+      }
+    }
+  }
+}
